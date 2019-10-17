@@ -1,0 +1,6 @@
+SQ(Stuktur Query Languange)L=Bahasa standar untuk menyimpan memanipulasi dan menerima data di basis data
+SQL 4 Fungsi -DML(Select Insert Update Delete Merege Call Explain Plan Lock Table)
+             -DDL (Create Alter Drop)
+             -DCL(Data Control Language)(Grant, Revoke)
+             -TCL(Transaction Control Languge)(Commit,Rollback,SavePoint,Set Transaction)
+             
